@@ -1,0 +1,15 @@
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\bin\Debug\net8.0\TarefasAssincronas.exe
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\bin\Debug\net8.0\TarefasAssincronas.deps.json
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\bin\Debug\net8.0\TarefasAssincronas.runtimeconfig.json
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\bin\Debug\net8.0\TarefasAssincronas.dll
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\bin\Debug\net8.0\TarefasAssincronas.pdb
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\obj\Debug\net8.0\TarefasAssincronas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\obj\Debug\net8.0\TarefasAssincronas.AssemblyInfoInputs.cache
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\obj\Debug\net8.0\TarefasAssincronas.AssemblyInfo.cs
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\obj\Debug\net8.0\TarefasAssincronas.csproj.CoreCompileInputs.cache
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\obj\Debug\net8.0\TarefasAssincronas.sourcelink.json
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\obj\Debug\net8.0\TarefasAssincronas.dll
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\obj\Debug\net8.0\refint\TarefasAssincronas.dll
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\obj\Debug\net8.0\TarefasAssincronas.pdb
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\obj\Debug\net8.0\TarefasAssincronas.genruntimeconfig.cache
+C:\Users\igorp\RiderProjects\TarefasAssincronas-\obj\Debug\net8.0\ref\TarefasAssincronas.dll
